@@ -6,3 +6,6 @@
 ## .config/nvim/init.vim
   Put this in "~/.config/nvim/".
 
+## .config/sway/config
+  sway config file
+
