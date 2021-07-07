@@ -1,11 +1,11 @@
 # Config Files
 
 ## .vimrc
-  Put this in "~/". If you want to use this settings in neovim as well, please see init.vim section.
+  vim settings
 
 ## .config/nvim/init.vim
-  Put this in "~/.config/nvim/".
+  neovim settings
 
 ## .config/sway/config
-  sway config file
+  sway settings
 
