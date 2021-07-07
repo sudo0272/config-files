@@ -1,5 +1,8 @@
 # Config Files
 
+## .p10k.zsh
+  powerlevel10k settings
+
 ## .tmux.conf
   tmux settings
 
