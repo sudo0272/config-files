@@ -9,3 +9,6 @@
 ## .config/sway/config
   sway settings
 
+## .config/sakura/sakura.conf
+  sakura terminal settings
+
