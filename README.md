@@ -12,3 +12,6 @@
 ## .config/sakura/sakura.conf
   sakura terminal settings
 
+## .tmux.conf
+  tmux settings
+
